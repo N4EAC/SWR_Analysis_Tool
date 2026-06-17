@@ -12,7 +12,7 @@ plot the graphic and allow exporting a CSV or image file with the results.
 Supported radios:<p>Yaesu FT-710</p>
 
 Notice:<p>
-This tool is being provided for free with no garantees. Use it at your own risk.
+This tool is being provided for free with no guarantees. Use it at your own risk.
 I tested this tool with success with a dummy load.
 <p>
 Screenshot:  
