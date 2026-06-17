@@ -18,3 +18,7 @@ I tested this tool with success with a dummy load.
 Screenshot:  
 </p>
 <img width="1122" height="672" alt="image" src="https://github.com/user-attachments/assets/dbfcd8fc-4edf-4592-83e4-cf26312ea0b5" />
+
+Short video:
+
+https://youtu.be/hQrxaLDOFqM
