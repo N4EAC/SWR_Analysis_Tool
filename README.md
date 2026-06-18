@@ -1,4 +1,6 @@
-# SWR_Analysis_Tool
+# SWR Analysis Tool
+
+<img width="1122" height="672" alt="image" src="https://github.com/user-attachments/assets/e9efc177-e458-4e32-9013-09820743589a" />
 
 Download and Install:<p>
 There is no install. Simply download the executable, place in any folder of your choice and run it.
@@ -14,11 +16,6 @@ Supported radios:<p>Yaesu FT-710</p>
 Notice:<p>
 This tool is being provided for free with no guarantees. Use it at your own risk.
 I tested this tool with success with a dummy load.
-<p>
-Screenshot:  
-</p>
-<img width="1122" height="672" alt="image" src="https://github.com/user-attachments/assets/dbfcd8fc-4edf-4592-83e4-cf26312ea0b5" />
 
 Short video:
-
 https://youtu.be/hQrxaLDOFqM
