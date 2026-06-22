@@ -1,6 +1,7 @@
 # SWR Analysis Tool v1.0.0 Release
 
 A Windows dark-theme SWR sweep utility for CAT-controlled radios. This release was tested successfully with the Yaesu FT-710.
+<img width="1122" height="672" alt="image" src="https://github.com/user-attachments/assets/37e1dbfb-b07a-4f72-862d-bdf031883306" />
 
 ## Run from source
 
